@@ -10,7 +10,7 @@ I'm Viraj Dalvi, I am passionate about web development and all the things needed
 
 - 🔭 I’m currently working on **Invoice Generator**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **UI/UX**
 
 - 💬 Ask me about **React & Overall Web Development**
 
@@ -19,7 +19,7 @@ I'm Viraj Dalvi, I am passionate about web development and all the things needed
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/virajdalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virajdalvi" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/virajdalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virajdalvi" height="30" width="40" /></a>
 <a href="https://instagram.com/virajdalvi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virajdalvi1" height="30" width="40" /></a>
 
 </p>
