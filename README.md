@@ -20,8 +20,7 @@ I'm Viraj Dalvi, I am passionate about web development and all the things needed
 
 <p align="left">
 <a href="https://linkedin.com/in/virajdalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virajdalvi" height="30" width="40" /></a>
-<a href="https://github.com/virajdalvi" target="blank"><img align="center" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg
-" alt="virajdalvi" height="30" width="40" /></a>
+<a href="https://github.com/virajdalvi" target="blank"><img align="center" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" alt="virajdalvi" height="30" width="40" /></a>
 <a href="https://instagram.com/virajdalvi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virajdalvi1" height="30" width="40" /></a>
 </p>
 
@@ -46,7 +45,7 @@ I'm Viraj Dalvi, I am passionate about web development and all the things needed
 
 - DevOps & Cloud
 <p >
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="Gitlab" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-mobile-en-white_48x29@2x.png" alt="aws" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="Gitlab" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-mobile-en-white_48x29@2x.png" alt="aws" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
 - Design
