@@ -6,23 +6,6 @@
 
 I'm Viraj Dalvi from India, I am passionate about web development and all the things needed for impactful development such as UI, UX, Backend & suitable deployment. and I really enjoy making web apps and websites using different technologies such as React, Django, MERN Stack, Tailwind, etc.
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12366
-Fork on GitHub
-3110
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Invoice Generator**
