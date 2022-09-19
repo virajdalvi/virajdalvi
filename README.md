@@ -37,8 +37,8 @@ I'm Viraj Dalvi, I am passionate about web development and all the things needed
 </p>
 
 - Databases -
-<p>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" alt="mysql" width="40" height="40"/> </a>
+<p >
+  &nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" alt="mysql" width="40" height="40"/> </a>
 
 </p>
 
