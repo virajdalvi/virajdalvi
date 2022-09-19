@@ -53,3 +53,7 @@ I'm Viraj Dalvi, I am passionate about web development and all the things needed
 <p>
      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
+
+## Most Used Languages
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajdalvi&show_icons=true&locale=en&layout=compact" alt="virajdalvi" /></p>
